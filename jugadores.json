@@ -1,0 +1,68 @@
+{"Data":[{
+	"nombre": "yaca",
+	"edad:": "29",
+	"apodo": "Polo",
+	"foto": "https://tmssl.akamaized.net//images/portrait/header/44058-1454084157.jpg?lm=1454084165",
+	"posicion": "Portero",
+	"estado": true
+},
+{
+    "nombre": "Mattia Perin",
+	"edad:": "26",
+	"apodo": "Mati",
+	"foto": "https://tmssl.akamaized.net//images/portrait/header/110923-1448530967.jpg?lm=1448530985",
+	"posicion": "Portero",
+	"estado": false
+},
+{   
+	"nombre": "Carlo Pinsoglio",
+	"edad:": "29",
+	"apodo": "Carlo",
+	"foto": "https://tmssl.akamaized.net//images/portrait/header/75411-1468926569.jpg?lm=1468926578",
+	"posicion": "Portero",
+	"estado": true
+},
+{
+
+	"nombre": "Leonardo Bonucci",
+	"edad:": "32",
+	"apodo": "Leo",
+	"foto": "https://tmssl.akamaized.net//images/portrait/header/39983-1448464012.jpg?lm=1448464025",
+	"posicion": "Defensa central",
+	"estado": false
+},
+{
+    "nombre": "Daniele Rugani",
+	"edad:": "24",
+	"apodo": "Dani",
+	"foto": "https://tmssl.akamaized.net//images/portrait/header/162959-1418136957.jpg?lm=1433143751",
+	"posicion": "Defensa central",
+	"estado": false	
+},
+{   
+	"nombre": "Ernesto",
+	"edad:": "28",
+	"apodo": "stone",
+	"foto": "imagen.jpg",
+	"posicion": "defensa",
+	"estado": true
+},
+
+{
+    "nombre": "Juan",
+	"edad:": "20",
+	"apodo": "gacela",
+	"foto": "imagen.jpg",
+	"posicion": "lateral",
+	"estado": true	
+},
+{   
+	"nombre": "Jose",
+	"edad:": "40",
+	"apodo": "compa",
+	"foto": "imagen.jpg",
+	"posicion": "lateral",
+	"estado": false
+}
+
+]}
